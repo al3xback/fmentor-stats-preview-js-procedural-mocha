@@ -21,6 +21,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - Js Procedural
 - Mocha
+- Jsdom
 - Mobile-first workflow
 
 ## Author
